@@ -1,8 +1,14 @@
+/*
+ * @Descripttion : 
+ * @version      : 
+ * @Author       : tky
+ * @Date         : 2021-04-11 12:15:29
+ * @LastEditors  : tky
+ * @LastEditTime : 2021-04-11 12:37:13
+ */
 import { Component } from '@angular/core';
 
-import { AboutPage } from '../about/about';
-import { ContactPage } from '../contact/contact';
-import { HomePage } from '../home/home';
+
 
 @Component({
   templateUrl: 'tabs.html'
